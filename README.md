@@ -5,6 +5,7 @@
 <a name="Awesome-Crack-Detection"></a>
 
 **Table of Content**
+
 - Papers: [2024](#2024-back-to-top) | [2023](#2023-back-to-top) | [2022](#2022-back-to-top) | [2021](#2021-back-to-top) | [2020](#2020-back-to-top) | [Before 2020](#before-2020-back-to-top)
 - [Survey](#survey-back-to-top)
 - [Review](#review-paper-back-to-top)
@@ -24,6 +25,7 @@
 |-------|--------|--------|--------|-----------|
 | 2023 | **CrackFormer Network for Pavement Crack Segmentation** | IEEE | [Link](https://ieeexplore.ieee.org/abstract/document/10109158) |[Link](https://github.com/LouisNUST/CrackFormer-II?tab=readme-ov-file)   |
 | 2023 | **A Convolutional-Transformer Network for Crack Segmentation with Boundary Awareness** | ICIP | [Link](https://arxiv.org/abs/2302.11728) |[Link](https://github.com/HqiTao/CT-crackseg?tab=readme-ov-file)   |
+| 2023 | **Fine-tuning vision foundation model for crack segmentation in civil infrastructures** | Construction and Building Materials | [Link](https://arxiv.org/abs/2312.04233) | |
 
 ### 2022 [[Back to Top](#Awesome-Crack-Detection)]
 | Year   | Title  | Venue |  Paper | Code  |
